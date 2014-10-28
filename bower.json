@@ -1,0 +1,22 @@
+{
+  "name": "highcharts-venn",
+  "version": "0.0.0",
+  "homepage": "https://github.com/michaeldelorenzo/highcharts-venn",
+  "authors": [
+    "Michael De Lorenzo <michael@delorenzodesign.com>"
+  ],
+  "description": "Venn diagram for Highcharts.",
+  "keywords": [
+    "highcharts"
+  ],
+  "main"          : "lib/venn.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
